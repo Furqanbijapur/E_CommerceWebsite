@@ -103,18 +103,6 @@ TestNG annotations provide fine-grained control over test execution:
 
 @Test: Mark a method as a test case.
 
-Example TestRunner.java file:
-
-
-Java
-
-@Test
-
-public void testLoginAndSearch() {
-
-    // Test logic for login and search
-    
-}
 
 🚀 How to Run the Project
 
